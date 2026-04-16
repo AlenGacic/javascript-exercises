@@ -9,6 +9,8 @@ const repeatString = function(string, number) {
         }
         return result
     }
+    // ovo sam napravio ranije hehe
+    
 };
 
 // Do not edit below this line
